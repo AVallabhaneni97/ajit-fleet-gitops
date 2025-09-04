@@ -1,4 +1,4 @@
-# Fleet GitOps
+# Fleet GitOps - Ajit
 
 This is the starter repository for using [Fleet](https://fleetdm.com) with a GitOps workflow.
 
